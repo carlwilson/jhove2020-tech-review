@@ -1,0 +1,24 @@
+{
+  "name": "JHOVE2020-technical-review",
+  "version": "0.1.0",
+  "description": "Simple JHOVE 2020 technical review prototype.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/openpreserve/jhove2020-tech-review",
+  "keywords": [
+    "Electron",
+    "JHOVE",
+    "JHOVE2020",
+    "review"
+  ],
+  "author": "carl@openpreservation.org",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^7.1.2"
+  },
+  "dependencies": {
+    "npm": "^6.13.4"
+  }
+}
